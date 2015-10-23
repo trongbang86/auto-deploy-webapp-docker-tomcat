@@ -23,6 +23,7 @@ The following components are used:
     
     ```sh
     docker-machine create -d virtualbox --engine-env KEY=VALUE default
+    ```
     
 3. Build the image:
 
